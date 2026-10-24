@@ -1,2 +1,0 @@
-Test file 18
-A third sample test file.

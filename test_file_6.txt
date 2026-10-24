@@ -1,2 +1,0 @@
-Test file 6
-This file is for basic repository testing.
